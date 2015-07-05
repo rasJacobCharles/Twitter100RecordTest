@@ -1,0 +1,8 @@
+{
+"username": "root",
+"password":"",
+"dsn": "mysql:host=localhost;dbname=dictionary",
+"host": "localhost",
+"database": "dictionary",
+"driver": "pdo_mysql"
+}
